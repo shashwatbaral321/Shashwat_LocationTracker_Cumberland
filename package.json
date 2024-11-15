@@ -1,0 +1,20 @@
+{
+  "name": "52ss6v",
+  "version": "0.0.16",
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "gulp": "3.8.11",
+    "gulp-concat": "2.5.2",
+    "gulp-cssmin": "0.1.7",
+    "gulp-uglify": "1.2.0",
+    "rimraf": "2.2.8"
+  },
+  "description": null,
+  "dependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
